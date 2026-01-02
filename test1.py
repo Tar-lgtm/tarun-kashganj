@@ -1,2 +1,2 @@
 
-print("ayush varshney!! v900")
+print"ayush varshney!! v900")
